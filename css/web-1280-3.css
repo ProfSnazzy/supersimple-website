@@ -1,0 +1,107 @@
+/* screen - web-1280-3 */
+
+.web-1280-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  overflow: hidden;
+  padding: 72px 0;
+  width: 1400px;
+}
+
+.web-1280-3 .flex-row {
+  align-items: center;
+  display: flex;
+  height: 47px;
+  margin-right: 15.0px;
+  min-width: 1115px;
+}
+
+.web-1280-3 .place-flex-row {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 38px;
+  min-height: 47px;
+  min-width: 158px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-3 .group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 548px;
+  margin-top: 1.0px;
+  min-width: 127px;
+  padding: 7px 36px;
+}
+
+.web-1280-3 .place-group-3 {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 22px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-3 .group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 14px;
+  margin-top: 1.0px;
+  min-width: 127px;
+  padding: 7px 36px;
+}
+
+.web-1280-3 .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 14px;
+  margin-top: 1.0px;
+  min-width: 127px;
+  padding: 7px 31px;
+}
+
+.web-1280-3 .services {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 22px;
+  min-width: 64px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-3 .to-schedule-a-servic {
+  -webkit-text-stroke: 1px var(--black);
+  align-self: flex-end;
+  height: 73px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: -2px;
+  margin-top: 93px;
+  text-align: center;
+  width: 1390px;
+}
