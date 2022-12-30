@@ -139,5 +139,6 @@
   text-align: center;
   top: 72px;
   white-space: nowrap;
+  position: static
   z-index: 3;
 }
