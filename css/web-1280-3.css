@@ -46,7 +46,7 @@
 }
 .web-1280-3 .group-3:hover {
 background-color:#ffffff;
-border-color: #ffffff;
+border-color: #000000;
 opacity: 1;
 }
 .web-1280-3 .place-group-3 {
@@ -76,7 +76,7 @@ opacity: 1;
 }
 .web-1280-3 .group-1:hover {
 background-color:#ffffff;
-border-color: #ffffff;
+border-color: #000000
 opacity: 1;
 }
 .web-1280-3 .group-2 {
@@ -96,7 +96,7 @@ opacity: 1;
 }
 .web-1280-3 .group-2:hover {
 background-color:#ffffff;
-border-color: #ffffff;
+border-color: #000000;
 opacity: 1;
 }.web-1280-3 .services {
   -webkit-text-stroke: 1px var(--black);
