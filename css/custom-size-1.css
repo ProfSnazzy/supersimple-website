@@ -1,12 +1,5 @@
 /* screen - custom-size-1 */
-.column {
-  width: 50%;
-}
 
-@media (min-width: 600px) {
-  .column {
-    width: 100%;
-  }
 }.custom-size-1 {
   align-items: flex-start;
   background-image: url(../img/960x450electricaloutlets-1x-png@1x.png);
