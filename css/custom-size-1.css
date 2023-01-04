@@ -124,7 +124,16 @@ opacity: 1;
   width: 1400px;
   z-index: 4;
 }
-
+.custom-size-1 .rectangle-1 {
+  background-color: var(--black);
+  height: 800px;
+  left: 153;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+  width: 1400px;
+  z-index: 2;
+}
 .custom-size-1 .title {
   -webkit-text-stroke: 1px var(--white);
   color: var(--white);
