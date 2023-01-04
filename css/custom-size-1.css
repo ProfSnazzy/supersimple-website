@@ -2,7 +2,7 @@
 
 .custom-size-1 {
   align-items: flex-start;
-  background-color: var(--white);
+  background-image: url(../img/960x450electricaloutlets-1x-png@1x.png);
   display: flex;
   overflow: hidden;
   width: 1400px;
@@ -10,7 +10,6 @@
 
 .custom-size-1 .overlap-group {
   align-items: flex-start;
-  background-image: url(../img/960x450electricaloutlets-1x-png@1x.png);
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -75,7 +74,7 @@
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
-  border-color: var(--black);
+  border-color: var(--dove-gray);
   border-radius: 20px;
   display: flex;
   height: 40px;
