@@ -149,3 +149,135 @@ opacity: 1;
   white-space: nowrap;
   z-index: 3;
 }
+@media only screen and (max-width: 640px) 
+ {
+ .custom-size-1 {
+  align-items: flex-start;
+  background-image: url(../img/960x450electricaloutlets@1x.png);
+  background-size: auto;
+  display: flex;
+  overflow: hidden;
+  width: 360px;
+}
+
+.custom-size-1 .overlap-group {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: fixed;
+  display: flex;
+  height: 640px;
+  margin-left: -120px;
+  min-width: 695px;
+  padding: 6px 214px;
+  z-index: 3;
+}
+
+.custom-size-1 .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  margin-top: 70px;
+  min-width: 60px;
+  padding: 2px;
+}
+
+.custom-size-1 .contact-us {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.custom-size-1 .group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  margin-left: 4px;
+  margin-top: 70px;
+  min-width: 54px;
+  padding: 2px 4px;
+}
+
+.custom-size-1 .services {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 44px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.custom-size-1 .group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  margin-top: 70px;
+  min-width: 60px;
+  padding: 2px 10.9px;
+}
+
+.custom-size-1 .about {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 36px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.custom-size-1 .icon-instagram {
+  align-self: flex-end;
+  height: 20px;
+  margin-left: 55px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.custom-size-1 .rectangle-1 {
+  background-color: var(--black);
+  height: 640px;
+  left: 0;
+  opacity: 0.5;
+  position: fixed;
+  top: 0;
+  width: 360px;
+  z-index: 2;
+}
+
+
+.custom-size-1 .title {
+  -webkit-text-stroke: 1px var(--white);
+  color: var(--white);
+  font-family: var(--font-family-centurygothic-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: fixed;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+  z-index: 3;
+}
+}
