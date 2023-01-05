@@ -124,7 +124,7 @@
   letter-spacing: 0;
   line-height: 30px;
   position: fixed;
-  align-self: center;
+  text-align: center;
   top: 36px;
   white-space: nowrap;
   z-index: 3;
