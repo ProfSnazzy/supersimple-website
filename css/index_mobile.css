@@ -104,12 +104,12 @@
 
 .custom-size-1 .rectangle-1 {
   background-color: var(--black);
-  height: 720px;
+  height: 740px;
   left: 0;
   opacity: 0.5;
   position: fixed;
   top: 0;
-  width: 400px;
+  width: 420px;
   z-index: 2;
 }
 
