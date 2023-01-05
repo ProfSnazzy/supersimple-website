@@ -149,7 +149,8 @@ opacity: 1;
   white-space: nowrap;
   z-index: 3;
 }
-@media screen and (max-width: 640px) 
+
+@media all and (max-width: 640px) 
  {
  .custom-size-1 {
   align-items: flex-start;
