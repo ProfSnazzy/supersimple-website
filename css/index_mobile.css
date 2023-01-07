@@ -2,7 +2,7 @@
 
 .custom-size-1 {
   align-items: flex-start;
-  background-image: url(../img/960x450electricaloutlets-1x-png@1x.png);
+  background-image: url('../img/960x450electricaloutlets-1x-png@1x.png');
   background-size: auto;
   display: flex;
   overflow: hidden;
