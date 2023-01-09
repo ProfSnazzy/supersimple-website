@@ -25,7 +25,6 @@
 .custom-size-1 .group-3 {
   align-items: flex-end;
   background-color: var(--white);
-  position:fixed;
   opacity: .75;
   border: 1px solid;
   border-color: var(--dove-gray);
@@ -55,7 +54,6 @@ opacity: 1;
 .custom-size-1 .group-1 {
   align-items: flex-end;
   background-color: var(--white);
-  position:fixed;
   opacity:.75;
   border: 1px solid;
   border-color: var(--dove-gray);
@@ -85,7 +83,6 @@ opacity: 1;
 .custom-size-1 .group-2 {
   align-items: flex-end;
   background-color: var(--white);
-  position:fixed;
   opacity:.75;
   border: 1px solid;
   border-color: var(--dove-gray);
