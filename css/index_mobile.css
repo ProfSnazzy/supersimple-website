@@ -121,7 +121,7 @@
   flex-direction: column;
   gap: 500px;
   min-height: 628px;
-  width: 80px;
+  width: 100px;
 }
 
 .custom-size-1 .title {
