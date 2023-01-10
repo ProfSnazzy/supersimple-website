@@ -119,8 +119,8 @@
   align-self: flex-end;
   display: flex;
   flex-direction: column;
-  gap: 638px;
-  min-height: 40px;
+  gap: 40px;
+  min-height: 640px;
   width: 127px;
 }
 
