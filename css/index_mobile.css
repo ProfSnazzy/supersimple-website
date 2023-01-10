@@ -114,7 +114,15 @@
   width: 420px;
   z-index: 2;
 }
-
+.custom-size-1 .flex-col {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 638px;
+  min-height: 706px;
+  width: 127px;
+}
 
 .custom-size-1 .title {
   -webkit-text-stroke: 1px var(--white);
