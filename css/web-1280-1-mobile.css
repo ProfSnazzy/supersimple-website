@@ -46,6 +46,7 @@
   text-align: center;
   top: 0;
   white-space: nowrap;
+  font-size: var(--font-size-l2);
 }
 
 .web-1280-1 .group-3 {
