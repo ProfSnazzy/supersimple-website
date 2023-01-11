@@ -1,6 +1,6 @@
 /* screen - web-1280-6 */
 
-.web-1280-6 {
+.web-1280-2 {
   align-items: flex-end;
   background-color: var(--white);
   display: flex;
@@ -12,14 +12,14 @@
   width: 360px;
 }
 
-.web-1280-6 .group-container {
+.web-1280-2 .group-container {
   height: 38px;
   margin-right: -0.5px;
   position: relative;
   width: 360px;
 }
 
-.web-1280-6 .overlap-group {
+.web-1280-2 .overlap-group {
   height: 38px;
   left: 0;
   position: absolute;
@@ -27,7 +27,7 @@
   width: 360px;
 }
 
-.web-1280-6 .line-1 {
+.web-1280-2 .line-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -36,7 +36,7 @@
   width: 360px;
 }
 
-.web-1280-6 .title {
+.web-1280-2 .title {
   -webkit-text-stroke: 1px var(--black);
   left: 16px;
   letter-spacing: 0;
@@ -47,7 +47,7 @@
   white-space: nowrap;
 }
 
-.web-1280-6 .group-4 {
+.web-1280-2 .group-4 {
   display: flex;
   height: 20px;
   left: 172px;
@@ -56,7 +56,7 @@
   width: 60px;
 }
 
-.web-1280-6 .group-3 {
+.web-1280-2 .group-3 {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -69,7 +69,7 @@
   padding: 2px 11.0px;
 }
 
-.web-1280-6 .place {
+.web-1280-2 .place {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -79,7 +79,7 @@
   white-space: nowrap;
 }
 
-.web-1280-6 .group-5 {
+.web-1280-2 .group-5 {
   display: flex;
   height: 20px;
   left: 235px;
@@ -88,7 +88,7 @@
   width: 60px;
 }
 
-.web-1280-6 .group-1 {
+.web-1280-2 .group-1 {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -101,7 +101,7 @@
   padding: 2px 6.0px;
 }
 
-.web-1280-6 .services {
+.web-1280-2 .services {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -111,7 +111,7 @@
   white-space: nowrap;
 }
 
-.web-1280-6 .group-2 {
+.web-1280-2 .group-2 {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -126,7 +126,7 @@
   top: 10px;
 }
 
-.web-1280-6 .contact-us {
+.web-1280-2 .contact-us {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -136,7 +136,7 @@
   white-space: nowrap;
 }
 
-.web-1280-6 .qs-quality-electric {
+.web-1280-2 .qs-quality-electric {
   -webkit-text-stroke: 1px var(--black);
   height: 144px;
   letter-spacing: 0;
