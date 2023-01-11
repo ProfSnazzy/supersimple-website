@@ -46,7 +46,11 @@
   text-align: center;
   top: 0;
   white-space: nowrap;
+  color: var(--black);
+  font-family: var(--font-family-centurygothic-regular);
   font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
 }
 
 .web-1280-1 .group-3 {
@@ -144,12 +148,12 @@
 }
 
 .web-1280-1 .commercial {
-  -webkit-text-stroke: 1px var(--black);
-  color: var(--black);
-  font-family: var(--font-family-centurygothic-regular);
-  font-size: var(--font-size-m2);
-  font-style: normal;
-  font-weight: 400;
+   -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 20px;
   margin-top: 2px;
@@ -161,10 +165,20 @@
 
 .web-1280-1 .service-work-1 {
   margin-top: 24px;
+  color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
 }
 
 .web-1280-1 .installations {
   -webkit-text-stroke: 1px var(--black);
+    color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
@@ -177,6 +191,11 @@
 
 .web-1280-1 .new-construction {
   -webkit-text-stroke: 1px var(--black);
+  color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
@@ -189,6 +208,11 @@
 
 .web-1280-1 .repairs {
   -webkit-text-stroke: 1px var(--black);
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
@@ -201,6 +225,11 @@
 
 .web-1280-1 .panel-meter-replacement {
   -webkit-text-stroke: 1px var(--black);
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   align-self: flex-end;
   letter-spacing: 0;
   line-height: 16px;
@@ -213,6 +242,11 @@
 
 .web-1280-1 .remodel {
   -webkit-text-stroke: 1px var(--black);
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
@@ -225,6 +259,11 @@
 
 .web-1280-1 .outdoor-lighting {
   -webkit-text-stroke: 1px var(--black);
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
@@ -253,6 +292,11 @@
 
 .web-1280-1 .service-work-2 {
   margin-top: 20px;
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
 }
 
 .web-1280-1 .i-stock-1041465228 {
@@ -265,6 +309,11 @@
 }
 
 .web-1280-1 .new-construction-home {
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   height: 116px;
   left: 213px;
   object-fit: cover;
@@ -275,6 +324,11 @@
 
 .web-1280-1 .service-work {
   -webkit-text-stroke: 1px var(--black);
+      color: var(--black);
+    font-family: var(--font-family-centurygothic-regular);
+    font-size: var(--font-size-s2);
+    font-style: normal;
+    font-weight: 400;
   letter-spacing: 0;
   line-height: 16px;
   margin-left: 8px;
