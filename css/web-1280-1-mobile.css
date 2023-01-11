@@ -55,7 +55,6 @@
   border-color: var(--dove-gray);
   border-radius: 20px;
   display: flex;
-  min-width: 60px;
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
@@ -81,7 +80,6 @@
   border-color: var(--dove-gray);
   border-radius: 20px;
   display: flex;
-  min-width: 60px;
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
