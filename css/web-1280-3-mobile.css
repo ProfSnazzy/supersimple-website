@@ -1,6 +1,6 @@
 /* screen - web-1280-4 */
 
-.web-1280-4 {
+.web-1280-3 {
   align-items: flex-end;
   background-color: var(--white);
   display: flex;
@@ -12,14 +12,14 @@
   width: 360px;
 }
 
-.web-1280-4 .group-container {
+.web-1280-3 .group-container {
   height: 38px;
   margin-right: -0.5px;
   position: relative;
   width: 360px;
 }
 
-.web-1280-4 .overlap-group {
+.web-1280-3 .overlap-group {
   height: 38px;
   left: 0;
   position: absolute;
@@ -27,7 +27,7 @@
   width: 360px;
 }
 
-.web-1280-4 .line-1 {
+.web-1280-3 .line-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -36,7 +36,7 @@
   width: 360px;
 }
 
-.web-1280-4 .place-overlap-group {
+.web-1280-3 .place-overlap-group {
   -webkit-text-stroke: 1px var(--black);
   left: 12px;
   letter-spacing: 0;
@@ -47,7 +47,7 @@
   white-space: nowrap;
 }
 
-.web-1280-4 .group-4 {
+.web-1280-3 .group-4 {
   display: flex;
   height: 20px;
   left: 172px;
@@ -56,7 +56,7 @@
   width: 60px;
 }
 
-.web-1280-4 .group {
+.web-1280-3 .group {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -69,7 +69,7 @@
   padding: 2px 11.0px;
 }
 
-.web-1280-4 .place-group {
+.web-1280-3 .place-group {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -79,7 +79,7 @@
   white-space: nowrap;
 }
 
-.web-1280-4 .group-5 {
+.web-1280-3 .group-5 {
   display: flex;
   height: 20px;
   left: 235px;
@@ -88,7 +88,7 @@
   width: 60px;
 }
 
-.web-1280-4 .about {
+.web-1280-3 .about {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -98,7 +98,7 @@
   white-space: nowrap;
 }
 
-.web-1280-4 .group-2 {
+.web-1280-3 .group-2 {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -113,7 +113,7 @@
   top: 10px;
 }
 
-.web-1280-4 .services {
+.web-1280-3 .services {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -123,7 +123,7 @@
   white-space: nowrap;
 }
 
-.web-1280-4 .to-schedule-a-servic {
+.web-1280-3 .to-schedule-a-servic {
   -webkit-text-stroke: 1px var(--black);
   height: 81px;
   letter-spacing: 0;
