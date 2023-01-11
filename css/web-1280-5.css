@@ -1,0 +1,274 @@
+/* screen - web-1280-5 */
+
+.web-1280-5 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  height: 640px;
+  overflow: hidden;
+  padding: 64px 0;
+  width: 360px;
+}
+
+.web-1280-5 .group-container {
+  height: 38px;
+  margin-left: 0.5px;
+  margin-top: 16px;
+  position: relative;
+  width: 360px;
+}
+
+.web-1280-5 .overlap-group {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.web-1280-5 .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 360px;
+}
+
+.web-1280-5 .title {
+  -webkit-text-stroke: 1px var(--black);
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.web-1280-5 .group-4 {
+  display: flex;
+  height: 20px;
+  left: 172px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.web-1280-5 .group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 60px;
+  padding: 2px 11.0px;
+}
+
+.web-1280-5 .place {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .group-5 {
+  display: flex;
+  height: 20px;
+  left: 235px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.web-1280-5 .about {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 36px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  left: 298px;
+  min-width: 60px;
+  padding: 2px;
+  position: absolute;
+  top: 10px;
+}
+
+.web-1280-5 .contact-us {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .overlap-group1 {
+  height: 436px;
+  margin-left: 6.0px;
+  position: relative;
+  width: 342px;
+}
+
+.web-1280-5 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 436px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.web-1280-5 .commercial {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 25px;
+  min-width: 122px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .service-work-1 {
+  margin-top: 24px;
+}
+
+.web-1280-5 .installations {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 90px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .new-construction {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 140px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .repairs {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 58px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .panel-meter-replacement {
+  -webkit-text-stroke: 1px var(--black);
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 210px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .remodel {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 72px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .outdoor-lighting {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  margin-top: 1px;
+  min-height: 22px;
+  min-width: 132px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .residential {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 46px;
+  min-height: 25px;
+  min-width: 106px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-5 .service-work-2 {
+  margin-top: 20px;
+}
+
+.web-1280-5 .i-stock-1041465228 {
+  height: 95px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 143px;
+}
+
+.web-1280-5 .new-construction-home {
+  height: 116px;
+  left: 213px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 116px;
+}
+
+.web-1280-5 .service-work {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 8px;
+  min-height: 22px;
+  min-width: 102px;
+  text-align: center;
+  white-space: nowrap;
+}
