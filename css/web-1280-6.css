@@ -1,0 +1,147 @@
+/* screen - web-1280-6 */
+
+.web-1280-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  height: 640px;
+  overflow: hidden;
+  padding: 80.5px 0;
+  width: 360px;
+}
+
+.web-1280-6 .group-container {
+  height: 38px;
+  margin-right: -0.5px;
+  position: relative;
+  width: 360px;
+}
+
+.web-1280-6 .overlap-group {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.web-1280-6 .line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 360px;
+}
+
+.web-1280-6 .title {
+  -webkit-text-stroke: 1px var(--black);
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.web-1280-6 .group-4 {
+  display: flex;
+  height: 20px;
+  left: 172px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.web-1280-6 .group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 60px;
+  padding: 2px 11.0px;
+}
+
+.web-1280-6 .place {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-6 .group-5 {
+  display: flex;
+  height: 20px;
+  left: 235px;
+  position: absolute;
+  top: 10px;
+  width: 60px;
+}
+
+.web-1280-6 .group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 60px;
+  padding: 2px 6.0px;
+}
+
+.web-1280-6 .services {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 44px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-6 .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  display: flex;
+  height: 20px;
+  left: 298px;
+  min-width: 60px;
+  padding: 2px;
+  position: absolute;
+  top: 10px;
+}
+
+.web-1280-6 .contact-us {
+  -webkit-text-stroke: 1px var(--black);
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 14px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.web-1280-6 .qs-quality-electric {
+  -webkit-text-stroke: 1px var(--black);
+  height: 144px;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-right: 4px;
+  text-align: center;
+  width: 350px;
+}
