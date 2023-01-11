@@ -12,7 +12,7 @@
   width: 360px;
 }
 
-.web-1280-1 .group-container {
+.web-1280-1 .flex-col-1 {
   height: 38px;
   margin-left: 0.5px;
   margin-top: 16px;
@@ -20,7 +20,7 @@
   width: 360px;
 }
 
-.web-1280-1 .overlap-group {
+.web-1280-1 .flex-row-flex-col {
   height: 38px;
   left: 0;
   position: absolute;
@@ -37,7 +37,7 @@
   width: 360px;
 }
 
-.web-1280-1 .title {
+.web-1280-1 .services {
   -webkit-text-stroke: 1px var(--black);
   left: 16px;
   letter-spacing: 0;
@@ -124,14 +124,14 @@
   white-space: nowrap;
 }
 
-.web-1280-1 .overlap-group1 {
+.web-1280-1 .flex-row-web-1280-1 {
   height: 436px;
   margin-left: 6.0px;
   position: relative;
   width: 342px;
 }
 
-.web-1280-1 .group-6 {
+.web-1280-1 .flex-col-2 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
