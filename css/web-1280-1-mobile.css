@@ -1,6 +1,6 @@
 /* screen - web-1280-5 */
 
-.web-1280-5 {
+.web-1280-1 {
   align-items: center;
   background-color: var(--white);
   display: flex;
@@ -12,7 +12,7 @@
   width: 360px;
 }
 
-.web-1280-5 .group-container {
+.web-1280-1 .group-container {
   height: 38px;
   margin-left: 0.5px;
   margin-top: 16px;
@@ -20,7 +20,7 @@
   width: 360px;
 }
 
-.web-1280-5 .overlap-group {
+.web-1280-1 .overlap-group {
   height: 38px;
   left: 0;
   position: absolute;
@@ -28,7 +28,7 @@
   width: 360px;
 }
 
-.web-1280-5 .line-1 {
+.web-1280-1 .line-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
@@ -37,7 +37,7 @@
   width: 360px;
 }
 
-.web-1280-5 .title {
+.web-1280-1 .title {
   -webkit-text-stroke: 1px var(--black);
   left: 16px;
   letter-spacing: 0;
@@ -48,7 +48,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .group-4 {
+.web-1280-1 .group-4 {
   display: flex;
   height: 20px;
   left: 172px;
@@ -57,7 +57,7 @@
   width: 60px;
 }
 
-.web-1280-5 .group {
+.web-1280-1 .group {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -70,7 +70,7 @@
   padding: 2px 11.0px;
 }
 
-.web-1280-5 .place {
+.web-1280-1 .place {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -80,7 +80,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .group-5 {
+.web-1280-1 .group-5 {
   display: flex;
   height: 20px;
   left: 235px;
@@ -89,7 +89,7 @@
   width: 60px;
 }
 
-.web-1280-5 .about {
+.web-1280-1 .about {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -99,7 +99,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .group-2 {
+.web-1280-1 .group-2 {
   align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
@@ -114,7 +114,7 @@
   top: 10px;
 }
 
-.web-1280-5 .contact-us {
+.web-1280-1 .contact-us {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
@@ -124,14 +124,14 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .overlap-group1 {
+.web-1280-1 .overlap-group1 {
   height: 436px;
   margin-left: 6.0px;
   position: relative;
   width: 342px;
 }
 
-.web-1280-5 .group-6 {
+.web-1280-1 .group-6 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -142,7 +142,7 @@
   width: 218px;
 }
 
-.web-1280-5 .commercial {
+.web-1280-1 .commercial {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 20px;
@@ -153,11 +153,11 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .service-work-1 {
+.web-1280-1 .service-work-1 {
   margin-top: 24px;
 }
 
-.web-1280-5 .installations {
+.web-1280-1 .installations {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
@@ -169,7 +169,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .new-construction {
+.web-1280-1 .new-construction {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
@@ -181,7 +181,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .repairs {
+.web-1280-1 .repairs {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
@@ -193,7 +193,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .panel-meter-replacement {
+.web-1280-1 .panel-meter-replacement {
   -webkit-text-stroke: 1px var(--black);
   align-self: flex-end;
   letter-spacing: 0;
@@ -205,7 +205,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .remodel {
+.web-1280-1 .remodel {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
@@ -217,7 +217,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .outdoor-lighting {
+.web-1280-1 .outdoor-lighting {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
@@ -229,7 +229,7 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .residential {
+.web-1280-1 .residential {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 20px;
@@ -240,11 +240,11 @@
   white-space: nowrap;
 }
 
-.web-1280-5 .service-work-2 {
+.web-1280-1 .service-work-2 {
   margin-top: 20px;
 }
 
-.web-1280-5 .i-stock-1041465228 {
+.web-1280-1 .i-stock-1041465228 {
   height: 95px;
   left: 199px;
   object-fit: cover;
@@ -253,7 +253,7 @@
   width: 143px;
 }
 
-.web-1280-5 .new-construction-home {
+.web-1280-1 .new-construction-home {
   height: 116px;
   left: 213px;
   object-fit: cover;
@@ -262,7 +262,7 @@
   width: 116px;
 }
 
-.web-1280-5 .service-work {
+.web-1280-1 .service-work {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 16px;
