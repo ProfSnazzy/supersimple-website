@@ -39,7 +39,7 @@
 
 .web-1280-1 .services {
   -webkit-text-stroke: 1px var(--black);
-  left: 16px;
+  left: 6px;
   letter-spacing: 0;
   line-height: 30px;
   position: absolute;
@@ -63,7 +63,7 @@
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
-  left: 160px;
+  left: 150px;
   position: absolute;
   top: 10px;
   width: 60px;
@@ -76,7 +76,7 @@
   min-width: 40px;
   text-align: center;
   white-space: nowrap;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .web-1280-1 .group-1 {
@@ -89,7 +89,7 @@
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
-  left: 225px;
+  left: 215px;
   position: absolute;
   top: 10px;
   width: 60px; 
@@ -103,7 +103,7 @@
   min-width: 38px;
   text-align: center;
   white-space: nowrap;
-  font-size:12px;
+  font-size:16px;
 }
 
 .web-1280-1 .group-2 {
@@ -114,7 +114,7 @@
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 290px;
+  left: 280px;
   width: 80px;
   padding: 2px;
   position: absolute;
@@ -129,7 +129,7 @@
   min-width: 56px;
   text-align: center;
   white-space: nowrap;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .web-1280-1 .flex-row-web-1280-1 {
