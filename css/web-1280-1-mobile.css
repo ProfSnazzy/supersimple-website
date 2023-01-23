@@ -189,7 +189,6 @@
 }
 
 .web-1280-1 .new-construction-1 {
-  -webkit-text-stroke: 1px var(--black);
   color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -206,7 +205,6 @@
 }
 
 .web-1280-1 .repairs-1 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -223,7 +221,6 @@
 }
 
 .web-1280-1 .panel-meter-replacement-1 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -240,7 +237,6 @@
 }
 
 .web-1280-1 .remodel-1 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -257,7 +253,6 @@
 }
 
 .web-1280-1 .outdoor-lighting {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -274,7 +269,7 @@
 }
 
 .web-1280-1 .residential {
-  -webkit-text-stroke: 1px var(--black);
+   -webkit-text-stroke: 1px var(--black);
   color: var(--black);
   font-family: var(--font-family-centurygothic-regular);
   font-size: 18px;
@@ -322,7 +317,6 @@
 }
 
 .web-1280-1 .service-work {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -352,7 +346,6 @@
   white-space: nowrap;
 }
 .web-1280-1 .new-construction-2 {
-  -webkit-text-stroke: 1px var(--black);
   color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -368,7 +361,6 @@
   white-space: nowrap;
 }
 .web-1280-1 .repairs-2 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -384,7 +376,6 @@
   white-space: nowrap;
 }
 .web-1280-1 .panel-meter-replacement-2 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
@@ -400,7 +391,6 @@
   white-space: nowrap;
 }
 .web-1280-1 .remodel-2 {
-  -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
     font-size: 12px;
