@@ -48,7 +48,7 @@
   white-space: nowrap;
   color: var(--black);
   font-family: var(--font-family-centurygothic-regular);
-  font-size: var(--font-size-30);
+  font-size: 30px;
   font-style: normal;
   font-weight: 400;
 }
