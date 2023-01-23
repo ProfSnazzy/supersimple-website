@@ -67,7 +67,6 @@
   position: absolute;
   top: 10px;
   width: 60px;
-  font-size:10px
 }
 .web-1280-1 .place {
 -webkit-text-stroke: 1px var(--black);
@@ -174,7 +173,7 @@
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-  left:20px;
+  left:200px;
 }
 
 .web-1280-1 .installations-1 {
