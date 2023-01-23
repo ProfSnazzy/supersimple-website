@@ -167,7 +167,7 @@
   margin-top: 24px;
   color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
 }
@@ -176,7 +176,7 @@
   -webkit-text-stroke: 1px var(--black);
     color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px);
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
@@ -193,7 +193,7 @@
   -webkit-text-stroke: 1px var(--black);
   color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
@@ -210,7 +210,7 @@
   -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
@@ -227,7 +227,7 @@
   -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   align-self: flex-end;
@@ -244,7 +244,7 @@
   -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
@@ -261,7 +261,7 @@
   -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
@@ -278,7 +278,7 @@
   -webkit-text-stroke: 1px var(--black);
   color: var(--black);
   font-family: var(--font-family-centurygothic-regular);
-  font-size: var(--font-size-m2);
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0;
@@ -294,7 +294,7 @@
   margin-top: 20px;
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
 }
@@ -311,7 +311,7 @@
 .web-1280-1 .new-construction-home {
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   height: 116px;
@@ -326,7 +326,7 @@
   -webkit-text-stroke: 1px var(--black);
       color: var(--black);
     font-family: var(--font-family-centurygothic-regular);
-    font-size: var(--font-size-s2);
+    font-size: 12px;
     font-style: normal;
     font-weight: 400;
   letter-spacing: 0;
