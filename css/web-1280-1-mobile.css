@@ -63,7 +63,7 @@
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
-  left: 140px;
+  left: 139px;
   position: absolute;
   top: 10px;
   width: 60px;
@@ -73,7 +73,7 @@
   letter-spacing: 0;
   line-height: 10px;
   min-height: 14px;
-  min-width: 25px;
+  min-width: 20px;
   text-align: center;
   white-space: nowrap;
   font-size: 16px;
@@ -89,7 +89,7 @@
   padding: 2px 11.0px;
   display: flex;
   height: 20px;
-  left: 205px;
+  left: 204px;
   position: absolute;
   top: 10px;
   width: 60px; 
@@ -100,7 +100,7 @@
   letter-spacing: 0;
   line-height: 10px;
   min-height: 14px;
-  min-width: 22px;
+  min-width: 17px;
   text-align: center;
   white-space: nowrap;
   font-size:16px;
@@ -114,8 +114,8 @@
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 270px;
-  width: 92px;
+  left: 269px;
+  width: 91px;
   padding: 2px;
   position: absolute;
   top: 10px;
@@ -126,7 +126,7 @@
   letter-spacing: 0;
   line-height: 10px;
   min-height: 14px;
-  min-width: 56px;
+  min-width: 55px;
   text-align: center;
   white-space: nowrap;
   font-size: 16px;
