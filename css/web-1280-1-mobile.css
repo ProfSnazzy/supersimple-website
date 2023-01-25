@@ -174,7 +174,7 @@
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-  margin-left:10px;
+  margin-left:20px;
 }
 
 .web-1280-1 .installations-1 {
@@ -191,6 +191,7 @@
   min-width: 90px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .new-construction-1 {
@@ -207,6 +208,7 @@
   min-width: 140px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .repairs-1 {
@@ -223,6 +225,7 @@
   min-width: 58px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .panel-meter-replacement-1 {
@@ -239,6 +242,7 @@
   min-width: 210px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .remodel-1 {
@@ -255,6 +259,7 @@
   min-width: 72px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .outdoor-lighting {
@@ -271,6 +276,7 @@
   min-width: 132px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .residential {
@@ -287,6 +293,7 @@
   min-width: 106px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 
 .web-1280-1 .service-work-2 {
@@ -296,6 +303,7 @@
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
+   margin-left:20px;
 }
 
 .web-1280-1 .i-stock-1041465228 {
@@ -334,6 +342,7 @@
   min-width: 102px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 .web-1280-1 .installations-2 {
     color: var(--black);
@@ -349,6 +358,7 @@
   min-width: 90px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 .web-1280-1 .new-construction-2 {
   color: var(--black);
@@ -364,6 +374,7 @@
   min-width: 140px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 .web-1280-1 .repairs-2 {
       color: var(--black);
@@ -379,6 +390,7 @@
   min-width: 58px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 .web-1280-1 .panel-meter-replacement-2 {
       color: var(--black);
@@ -394,6 +406,7 @@
   min-width: 210px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
 .web-1280-1 .remodel-2 {
       color: var(--black);
@@ -409,4 +422,5 @@
   min-width: 72px;
   text-align: center;
   white-space: nowrap;
+   margin-left:20px;
 }
