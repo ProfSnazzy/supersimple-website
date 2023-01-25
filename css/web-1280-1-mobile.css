@@ -73,11 +73,11 @@
   letter-spacing: 0;
   line-height: 10px;
   min-height: 14px;
-  min-width: 5px;
+  min-width: fit-content;
   text-align: center;
   white-space: nowrap;
   font-size: 16px;
-  left:138px;
+  margin-left: 5px;
 }
 
 .web-1280-1 .group-1 {
@@ -101,10 +101,11 @@
   letter-spacing: 0;
   line-height: 10px;
   min-height: 14px;
-  min-width: 5px;
+  min-width: fit-content;
   text-align: center;
   white-space: nowrap;
   font-size:16px;
+  margin-left: 5px
 }
 
 .web-1280-1 .group-2 {
