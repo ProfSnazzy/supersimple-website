@@ -177,6 +177,7 @@
     font-weight: 400;
   margin-left:20px;
   min-width: min-content;
+  line-height: 16px;
 }
 
 .web-1280-1 .installations-1 {
@@ -241,7 +242,7 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: fit-content;
+  min-width: 1px;
   text-align: center;
   white-space: nowrap;
   margin-left:20px;
@@ -306,6 +307,7 @@
     font-style: normal;
     font-weight: 400;
    margin-left:20px;
+   line-height: 16px;
 }
 
 .web-1280-1 .i-stock-1041465228 {
@@ -405,7 +407,7 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: min-content;
+  min-width: 1px;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
