@@ -162,9 +162,10 @@
   line-height: 20px;
   margin-top: 2px;
   min-height: 25px;
-  min-width: 122px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
+  margin-left: 10px;
 }
 
 .web-1280-1 .service-work-1 {
@@ -294,6 +295,7 @@
   min-width: min-content;
   text-align: center;
   white-space: nowrap;
+  margin-left: 10px;
 }
 
 .web-1280-1 .service-work-2 {
