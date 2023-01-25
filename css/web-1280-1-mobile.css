@@ -241,10 +241,10 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 0px;
+  min-width: fit-content;
   text-align: center;
   white-space: nowrap;
-   margin-left:20px;
+  margin-left:20px;
 }
 
 .web-1280-1 .remodel-1 {
@@ -405,7 +405,7 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 0px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
