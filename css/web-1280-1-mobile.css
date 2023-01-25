@@ -246,7 +246,6 @@
   min-width: min-content;
   text-align: center;
   white-space: nowrap;
-  margin-left:-50px;
 }
 
 .web-1280-1 .remodel-1 {
@@ -411,7 +410,7 @@
   min-width: min-content;
   text-align: center;
   white-space: nowrap;
-   margin-left:-50px;
+
 }
 .web-1280-1 .remodel-2 {
       color: var(--black);
