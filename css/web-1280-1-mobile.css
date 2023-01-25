@@ -240,7 +240,7 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 210px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -257,7 +257,7 @@
   margin-left: 8px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 72px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -274,7 +274,7 @@
   margin-left: 8px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 132px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -291,7 +291,7 @@
   line-height: 20px;
   margin-top: 46px;
   min-height: 25px;
-  min-width: 106px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -372,7 +372,7 @@
   margin-left: 8px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 140px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -388,7 +388,7 @@
   margin-left: 8px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 58px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -404,7 +404,7 @@
   line-height: 16px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 210px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
@@ -420,7 +420,7 @@
   margin-left: 8px;
   margin-top: 1px;
   min-height: 22px;
-  min-width: 72px;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
    margin-left:20px;
