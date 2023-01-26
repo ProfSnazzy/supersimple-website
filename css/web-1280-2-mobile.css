@@ -111,6 +111,6 @@ background-color: var(--white);
   line-height: 16px;
   margin-right: 4px;
   text-align: center;
-  width: min-content;
+  width: fit-content;
   white-space: normal;
 }
