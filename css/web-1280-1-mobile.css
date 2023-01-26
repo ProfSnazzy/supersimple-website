@@ -1,7 +1,7 @@
 /* screen - web-1280-5 */
 
 .web-1280-1 {
-  align-items: center;
+  align-items: flex-end;
   background-color: var(--white);
   display: flex;
   flex-direction: column;
