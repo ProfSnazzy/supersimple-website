@@ -108,7 +108,7 @@ background-color: var(--white);
   -webkit-text-stroke: 1px var(--black);
   height: 144px;
   letter-spacing: 0;
-  line-height: 16px;
+  line-height: 32px;
   margin-right: 4px;
   text-align: center;
   width: fit-content;
