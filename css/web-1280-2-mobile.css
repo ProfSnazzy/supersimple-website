@@ -76,6 +76,7 @@ background-color: var(--white);
   letter-spacing: 0;
   line-height: 10px;
   min-width: min-content;
+  min-height: min-content;
   text-align: center;
   white-space: nowrap;
 }
