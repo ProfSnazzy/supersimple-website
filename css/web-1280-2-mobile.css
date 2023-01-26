@@ -47,15 +47,6 @@
   white-space: nowrap;
 }
 
-.web-1280-2 .group-4 {
-  display: flex;
-  height: 20px;
-  left: 172px;
-  position: absolute;
-  top: 10px;
-  width: 60px;
-}
-
 .web-1280-2 .group-3 {
   align-items: flex-end;
   background-color: var(--white);
@@ -77,15 +68,6 @@
   min-width: 34px;
   text-align: center;
   white-space: nowrap;
-}
-
-.web-1280-2 .group-5 {
-  display: flex;
-  height: 20px;
-  left: 235px;
-  position: absolute;
-  top: 10px;
-  width: 60px;
 }
 
 .web-1280-2 .group-1 {
