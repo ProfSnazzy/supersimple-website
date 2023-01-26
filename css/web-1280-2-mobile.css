@@ -11,21 +11,7 @@
   padding: 64px 0;
   width: 360px;
 }
-web-1280-1 .flex-col-1 {
-  height: 38px;
-  margin-left: 0.5px;
-  margin-top: 16px;
-  position: relative;
-  width: 360px;
-}
 
-.web-1280-1 .flex-row-flex-col {
-  height: 38px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 360px;
-}
 .web-1280-2 .line-4 {
   height: 1px;
   left: 12px;
@@ -54,7 +40,7 @@ web-1280-1 .flex-col-1 {
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 169px;
+  left: 164px;
   min-width: min-content;
   padding: 2px;
   position: absolute;
@@ -78,7 +64,7 @@ background-color: var(--white);
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 225px;
+  left: 220px;
   min-width: min-content;
   padding: 2px;
   position: absolute;
@@ -101,7 +87,7 @@ background-color: var(--white);
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 297px;
+  left: 292px;
   min-width: min-content;
   padding: 2px;
   position: absolute;
