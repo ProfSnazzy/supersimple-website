@@ -12,6 +12,14 @@
   width: 360px;
 }
 
+.web-1280-2 .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 47px;
+  margin-right: 20.0px;
+  min-width: 1120px;
+}
 .web-1280-2 .line-4 {
   height: 1px;
   left: 0;
