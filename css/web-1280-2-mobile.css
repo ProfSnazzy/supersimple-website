@@ -33,7 +33,6 @@
 }
 
 .web-1280-2 .group-3 {
-  align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
   border-color: var(--dove-gray);
@@ -50,14 +49,13 @@
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
-  min-height: 14px;
-  min-width: 34px;
+  min-height: min-content;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
 }
 
 .web-1280-2 .group-1 {
-  align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
   border-color: var(--dove-gray);
@@ -73,14 +71,13 @@
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
-  min-height: 14px;
-  min-width: 44px;
+  min-height: min-content;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
 }
 
 .web-1280-2 .group-2 {
-  align-items: flex-end;
   background-color: var(--white);
   border: 1px solid;
   border-color: var(--black);
@@ -98,8 +95,8 @@
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
   line-height: 10px;
-  min-height: 14px;
-  min-width: 56px;
+  min-height: min-content;
+  min-width: min-content;
   text-align: center;
   white-space: nowrap;
 }
