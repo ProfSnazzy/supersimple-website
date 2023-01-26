@@ -34,17 +34,17 @@
 }
 
 .web-1280-2 .group-3 {
-  background-color: var(--white);
+ background-color: var(--white);
   border: 1px solid;
-  border-color: var(--dove-gray);
+  border-color: var(--black);
   border-radius: 20px;
   display: flex;
-  min-width: min-content;
-  padding: 2px 11.0px;
-  margin-left:60px;
-  top: 10px;
   height: 20px;
   left: 250px;
+  min-width: min-content;
+  padding: 2px;
+  position: absolute;
+  top: 10px;
 }
 
 .web-1280-2 .place {
@@ -58,16 +58,17 @@
 }
 
 .web-1280-2 .group-1 {
-  background-color: var(--white);
+background-color: var(--white);
   border: 1px solid;
-  border-color: var(--dove-gray);
+  border-color: var(--black);
   border-radius: 20px;
   display: flex;
-  min-width: min-content;
-  padding: 2px 6.0px;
-  top:10px;
   height: 20px;
-  left: 270px
+  left: 270px;
+  min-width: min-content;
+  padding: 2px;
+  position: absolute;
+  top: 10px;
 }
 
 .web-1280-2 .services {
