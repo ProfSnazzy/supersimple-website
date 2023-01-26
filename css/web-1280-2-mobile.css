@@ -5,10 +5,10 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  gap: 95px;
+  gap: 22px;
   height: 640px;
   overflow: hidden;
-  padding: 80.5px 0;
+  padding: 64px 0;
   width: 360px;
 }
 
