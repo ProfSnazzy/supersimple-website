@@ -77,7 +77,7 @@ background-color: var(--white);
   min-width: min-content;
   min-height: min-content;
   text-align: center;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .web-1280-2 .group-2 {
