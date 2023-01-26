@@ -112,4 +112,5 @@ background-color: var(--white);
   margin-right: 4px;
   text-align: center;
   width: 350px;
+  white-space: nowrap;
 }
