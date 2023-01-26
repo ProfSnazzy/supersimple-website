@@ -44,6 +44,8 @@
   padding: 2px 11.0px;
   margin-left:60px;
   top: 10px;
+  height: 20px;
+  left: 250px;
 }
 
 .web-1280-2 .place {
@@ -66,6 +68,8 @@
   min-width: min-content;
   padding: 2px 6.0px;
   top:10px;
+  height: 20px;
+  left: 270px
 }
 
 .web-1280-2 .services {
