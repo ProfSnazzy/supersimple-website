@@ -11,7 +11,21 @@
   padding: 64px 0;
   width: 360px;
 }
+web-1280-1 .flex-col-1 {
+  height: 38px;
+  margin-left: 0.5px;
+  margin-top: 16px;
+  position: relative;
+  width: 360px;
+}
 
+.web-1280-1 .flex-row-flex-col {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
 .web-1280-2 .line-4 {
   height: 1px;
   left: 12px;
