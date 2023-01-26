@@ -40,7 +40,7 @@
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 250px;
+  left: 210px;
   min-width: min-content;
   padding: 2px;
   position: absolute;
@@ -64,7 +64,7 @@ background-color: var(--white);
   border-radius: 20px;
   display: flex;
   height: 20px;
-  left: 270px;
+  left: 250px;
   min-width: min-content;
   padding: 2px;
   position: absolute;
