@@ -21,14 +21,14 @@
   width: 360px;
 }
 
-.web-1280-3 .overlap-group {
+.web-1280-3 .flex-row {
   height: 38px;
   left: 0;
   position: absolute;
   top: 0;
   width: 360px;
 }
-.web-1280-3 .place-overlap-group {
+.web-1280-3 .place-flex-row {
   -webkit-text-stroke: 1px var(--black);
   margin-left: 12px;
   letter-spacing: 0;
