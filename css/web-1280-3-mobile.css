@@ -11,10 +11,14 @@
   padding: 80.5px 0;
   width: 360px;
 }
-.line-1 {
+
+.web-1280-3 .line-1 {
   height: 1px;
   left: 0;
   object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 360px;
 }
 
 .web-1280-3 .overlap-group {
