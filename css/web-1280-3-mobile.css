@@ -30,9 +30,9 @@
 }
 .web-1280-3 .place-overlap-group {
   -webkit-text-stroke: 1px var(--black);
-  left: 12px;
+  margin-left: 12px;
   letter-spacing: 0;
-  line-height: 30px;
+  line-height: 10px;
   position: absolute;
   text-align: center;
   top: 0;
