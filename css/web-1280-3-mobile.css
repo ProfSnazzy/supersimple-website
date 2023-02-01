@@ -48,7 +48,6 @@
   border-color: var(--dove-gray);
   border-radius: 20px;
   display: flex;
-  justify-content: flex-end;
   min-width: fit-content;
   padding: 2px 11.0px;
 }
