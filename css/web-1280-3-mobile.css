@@ -12,27 +12,11 @@
   width: 360px;
 }
 
-.web-1280-3 .group-container {
-  height: 38px;
-  margin-right: -0.5px;
-  position: relative;
-  width: 360px;
-}
-
 .web-1280-3 .overlap-group {
   height: 38px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 360px;
-}
-
-.web-1280-3 .line-1 {
-  height: 1px;
-  left: 0;
-  object-fit: cover;
-  position: absolute;
-  top: 32px;
   width: 360px;
 }
 
