@@ -24,9 +24,9 @@
 .web-1280-3 .place-flex-row {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
-  line-height: 38px;
+  line-height: 15px;
   min-height: 47px;
-  min-width: 158px;
+  min-width: fit-content;
   text-align: center;
   white-space: nowrap;
 }
