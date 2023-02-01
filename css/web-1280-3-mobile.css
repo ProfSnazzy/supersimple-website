@@ -24,10 +24,10 @@
 .web-1280-3 .place-flex-row {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
-  line-height: 15px;
+  line-height: 30px;
   min-height: 47px;
   min-width: fit-content;
-  margin-left: -120px;
+  margin-left: -180px;
   text-align: center;
   white-space: nowrap;
 }
@@ -55,7 +55,7 @@
 .web-1280-3 .place-group-3 {
   -webkit-text-stroke: 1px var(--black);
   letter-spacing: 0;
-  line-height: 10px;
+  line-height: 15px;
   min-height: 14px;
   min-width: 34px;
   text-align: center;
