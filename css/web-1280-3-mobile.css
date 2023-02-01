@@ -27,7 +27,7 @@
   line-height: 30px;
   min-height: 47px;
   min-width: fit-content;
-  margin-left: -280px;
+  margin-left: -180px;
   text-align: center;
   white-space: nowrap;
   font-size: 30px;
@@ -48,7 +48,7 @@
   border-radius: 20px;
   display: flex;
   height: 20px;
-  margin-left: 100px;
+  margin-left: 250px;
   min-width: fit-content;
   padding: 2px;
   position: absolute;
