@@ -48,7 +48,7 @@
   border-radius: 20px;
   display: flex;
   justify-content: flex-end;
-  min-width: fit-content;
+  min-width: 20px;
   padding: 2px 11.0px;
 }
 
