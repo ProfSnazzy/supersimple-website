@@ -28,16 +28,6 @@
   top: 0;
   width: 360px;
 }
-.web-1280-3 .place-flex-row {
-  -webkit-text-stroke: 1px var(--black);
-  margin-left: 12px;
-  letter-spacing: 0;
-  line-height: 10px;
-  position: fixed;
-  text-align: center;
-  top: 0;
-  white-space: nowrap;
-}
 
 .web-1280-3 .group-4 {
   display: flex;
