@@ -39,6 +39,7 @@
   position: absolute;
   top: 0;
   width: 360px;
+  min-width: min-content;
 }
 
 .web-1280-3 .group-3 {
