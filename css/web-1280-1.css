@@ -6,7 +6,8 @@
   display: flex;
   flex-direction: column;
   height: 800px;
-  padding: 22px 0;
+  overflow: hidden;
+  padding: 72px 0;
   width: 1400px;
 }
 
@@ -110,7 +111,7 @@ opacity: 1;
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-top: 3px;
+  margin-top: 10px;
   min-height: 462px;
   width: 290px;
 }
