@@ -120,10 +120,11 @@
 
 .web-1280-3 .to-schedule-a-servic {
   -webkit-text-stroke: 1px var(--black);
-  height: 81px;
+  height: 144px;
   letter-spacing: 0;
-  line-height: 16px;
+  line-height: 32px;
   margin-right: 4px;
   text-align: center;
-  width: 350px;
+  width: fit-content;
+  white-space: normal;
 }
